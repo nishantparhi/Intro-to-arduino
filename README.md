@@ -15,8 +15,7 @@ Then run `arduino` on the terminal
 In Tools, you can see the option written on `Board`
 
 ![](ES8266.png)
-![](ES82661.png)
-![](ESP82662.png)
+![](ESP82661.png)
 
 **All the required libraries**
 
